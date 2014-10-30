@@ -1,15 +1,13 @@
 {
     "identifier": "karlik-albastaki-2003-perfume",
     "name": "Perfume data",
-    "description": "Data collected from perfume through an odor meter
-    (OMX-FR sensor)",
+    "description": "Data collected from perfume through an odor meter (OMX-FR sensor)",
     "url": "http://archive.ics.uci.edu/ml/datasets/Parfum_data",
-    "data_url": ["http://archive.ics.uci.edu/ml/machine-learning-databases/00284/perfume_data.xlsx"],
-    "fomarts": ["xlsx"],
+    "dataUrls": ["http://archive.ics.uci.edu/ml/machine-learning-databases/00284/perfume_data.xlsx"],
+    "formats": ["xlsx"],
     "sizeInMb": 0.011,
     "entriesCount": 560,
     "sparse": false,
-    "type": "da fuck should we put here",
     "tags": ["chemistry", "odor"],
     "suggestedUsages": ["classification", "clustering"],
     "licenseType": "open",
