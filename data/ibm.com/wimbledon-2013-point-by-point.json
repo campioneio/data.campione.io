@@ -1,0 +1,15 @@
+{
+    "identifier": "wimbledon-2003-sample-point-by-point",
+    "name": "Wimbledon data",
+    "description": "Data sample collected during 2013 Wimbledon tennis tournament and used for Wimbledon Innovation Challenge",
+    "url": "http://www-05.ibm.com/uk/wimbledon_innovation_challenge/get_started.html",
+    "dataUrls": ["http://www-05.ibm.com/uk/wimbledon_innovation_challenge/data/Wimbledon_2013_Sample_Point_by_Point_data.csv"],
+    "formats": ["csv"],
+    "sizeInMb": 6,
+    "entriesCount": 3900,
+    "sparse": false,
+    "tags": ["tennis", "game", "tournament", "points", "speed", "serve"],
+    "suggestedUsages": ["inference"],
+    "licenseType": "unclear",
+    "license": "unclear"
+}
