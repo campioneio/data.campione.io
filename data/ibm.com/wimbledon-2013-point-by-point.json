@@ -8,7 +8,7 @@
     "sizeInMb": 6,
     "entriesCount": 3900,
     "sparse": false,
-    "tags": ["tennis", "game", "tournament", "points", "speed", "serve"],
+    "tags": ["sport", "game", "tournament"],
     "suggestedUsages": ["inference"],
     "licenseType": "unclear",
     "license": "unclear"
