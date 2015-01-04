@@ -1,0 +1,15 @@
+{
+  "identifier": "fisher-1936-iris",
+  "name": "Iris",
+  "description": "The famous iris flowers classification dataset.",
+  "url": "http://archive.ics.uci.edu/ml/datasets/Iris",
+  "dataUrls": ["http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"],
+  "formats": ["csv"],
+  "sizeInMb": 0.004,
+  "entriesCount": 150,
+  "sparse": false,
+  "tags": ["nature"],
+  "suggestedUsages": ["classification"],
+  "licenseType": "open",
+  "license": "UCI donation, unclear"
+}
