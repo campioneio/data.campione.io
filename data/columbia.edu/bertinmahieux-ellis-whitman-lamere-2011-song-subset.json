@@ -1,0 +1,15 @@
+{
+  "identifier": "bertinmahieux-ellis-whitman-lamere-2011-song-subset",
+  "name": "Million Song Dataset - Subset",
+  "description": "The Million Song Dataset is a freely-available collection of audio features and metadata for a million contemporary popular music tracks. Only a subset is directly available from here, open the project page to learn more.",
+  "url": "http://labrosa.ee.columbia.edu/millionsong/",
+  "dataUrls": ["http://static.echonest.com/millionsongsubset_full.tar.gz"],
+  "formats": ["hdf5", "custom"],
+  "sizeInMb": 1800,
+  "entriesCount": 10000,
+  "sparse": false,
+  "tags": ["music", "art"],
+  "suggestedUsages": ["classification"],
+  "licenseType": "open",
+  "license": "unclear"
+}
