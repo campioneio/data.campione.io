@@ -9,7 +9,7 @@
     "entriesCount": 3900,
     "sparse": false,
     "tags": ["sport", "game", "tournament"],
-    "suggestedUsages": ["inference"],
+    "suggestedUsages": ["classification"],
     "licenseType": "unclear",
     "license": "unclear"
 }
