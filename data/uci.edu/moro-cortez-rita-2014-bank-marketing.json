@@ -1,7 +1,7 @@
 {
   "identifier": "moro-cortez-rita-2014-bank-marketing",
   "name": "Iris",
-  "description": "The famous iris flowers classification dataset.",
+  "description": "Bank marketing data including the output: did the customer accepted a long term deposit or not.",
   "url": "http://archive.ics.uci.edu/ml/datasets/Bank+Marketing",
   "dataUrls": ["http://archive.ics.uci.edu/ml/machine-learning-databases/00222/bank.zip", "http://archive.ics.uci.edu/ml/machine-learning-databases/00222/bank-additional.zip"],
   "formats": ["csv"],
